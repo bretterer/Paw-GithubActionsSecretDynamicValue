@@ -1,6 +1,6 @@
 {
   "name": "@bretterer/pawGithubActionsSecretDynamicValue",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0",
   "description": "Github Actions Secret Encryption Dynamic Value Plugin for Paw.cloud",
   "main": "src/GithubActionsSecretDynamicValue.js",
   "author": "Brian Retterer",
